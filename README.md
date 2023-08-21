@@ -8,9 +8,9 @@
     </a>
     <h3>🔧 Other Stuff</h3>
     <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,ps,pr,discord,git,github,gitlab,nginx,regex,replit,stackoverflow,vscode,atom,blender,docker,figma,idea,linkedin,octave,sq&perline=13">
+        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,ps,pr,discord,git,github,gitlab,nginx,regex,replit,stackoverflow,vscode,atom,blender,docker,figma,idea,linkedin,octave,tensorflow&perline=13">
     </a>
-    <h3>🤓 To learn list</h3>
+    <h3>🤓 To Learn List</h3>
     <a href="https://skillicons.dev">
         <img alt="Other Stuff" src="https://skillicons.dev/icons?i=lua,js,css,&perline=13">
     </a>
