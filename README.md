@@ -4,11 +4,15 @@
     I'm a beginner developer and Applied Computer Science student 
     <h3>📚 Languages I Know</h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages" src="https://skillicons.dev/icons?i=py,cpp,lua,js,css,html&perline=13">
+        <img alt="Languages" src="https://skillicons.dev/icons?i=py,cpp,html&perline=13">
     </a>
     <h3>🔧 Other Stuff</h3>
     <a href="https://skillicons.dev">
         <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,ps,pr,discord,git,github,gitlab,nginx,regex,replit,stackoverflow,vscode,atom,blender,docker,figma,idea,linkedin,octave,sq&perline=13">
+    </a>
+    <h3>🤓 To learn list</h3>
+    <a href="https://skillicons.dev">
+        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=lua,js,css,&perline=13">
     </a>
 </div>
 
