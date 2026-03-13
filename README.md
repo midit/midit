@@ -1,70 +1,28 @@
-# AboutMe
-<div align="center">
-    <h3>Hi, I'm delovebit</h3>
-    I'm a beginner developer and Applied Computer Science student 
-    <h3>📚 Languages I Know</h3>
-    <a href="https://skillicons.dev">
-        <img alt="Languages" src="https://skillicons.dev/icons?i=py,cpp,html&perline=13">
-    </a>
-    <h3>🔧 Other Stuff</h3>
-    <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,ps,pr,discord,git,github,gitlab,nginx,regex,replit,stackoverflow,vscode,atom,blender,docker,figma,idea,linkedin,octave,tensorflow&perline=13">
-    </a>
-    <h3>🤓 To Learn List</h3>
-    <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=lua,js,css,&perline=13">
-    </a>
-</div>
+<a href="https://linktr.ee/delovebit" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/9043a314-6679-43d5-bb74-3eee260d707b" width="1440" alt="Banner">
+</a>
 
-<br/>
-<br/>
+### 👋 About Me
 
-<div align="center">
-    <a href="https://discord.com/users/278228469685420033">
-        <img src="https://lanyard.cnrad.dev/api/278228469685420033?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=midit&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
-    </a>
-</div>
+B.Eng. in Applied CS (Data Science)
 
-<br/>
-<br/>
+I build production-style data systems with a focus on clean architecture and real-world performance. Currently working through **#Project50** a 50-day challenge where I ship one production-grade Python system per day.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=midit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midit&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="155" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=midit&theme=tokyonight&hide_border=true&border_radius=12" height="155" />
+</p>
+
+<p align="center">
+    <a href="https://linkedin.com/in/patrushevx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:patrushevx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.buymeacoffee.com/delovebit"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  </p>
 
 <div align="center">
-    <h1>🔗 Links</h1>
-    <div>
-        <a href="https://www.buymeacoffee.com/delovebit">
-            <picture width="45" height="45">
-                <source srcset="https://cdn.simpleicons.org/buymeacoffee/FFF" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://cdn.simpleicons.org/buymeacoffee/000" media="(prefers-color-scheme: light)" />
-                <img alt="BuyMeACoffe" src="https://cdn.simpleicons.org/buymeacoffee/FFF" width="45" />
-            </picture>
-        </a>
-        &nbsp;
-        <a href="https://discord.com/users/278228469685420033">
-            <picture width="45" height="45">
-                <source srcset="https://cdn.simpleicons.org/discord/FFF" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://cdn.simpleicons.org/discord/000" media="(prefers-color-scheme: light)" />
-                <img alt="Discord" src="https://cdn.simpleicons.org/discord/FFF" width="45" />
-            </picture>
-        </a>
-        &nbsp;
-        <a href="https://steamcommunity.com/id/delovebit">
-            <picture width="45" height="45">
-                <source srcset="https://cdn.simpleicons.org/steam/FFF" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://cdn.simpleicons.org/steam/000" media="(prefers-color-scheme: light)" />
-                <img alt="Steam" src="https://cdn.simpleicons.org/steam/FFF" width="45" />
-            </picture>
-        </a>
-        &nbsp;
-        <a href="https://www.roblox.com/users/3673518886">
-            <picture width="45" height="45">
-                <source srcset="https://cdn.simpleicons.org/roblox/FFF" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://cdn.simpleicons.org/roblox/000" media="(prefers-color-scheme: light)" />
-                <img alt="Roblox" src="https://cdn.simpleicons.org/roblox/FFF" width="45" />
-            </picture>
-        </a>
-    </div>
+  <sub>Always open to interesting collaborations.</sub>
 </div>
