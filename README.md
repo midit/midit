@@ -6,7 +6,7 @@
 
 B.Eng. in Applied CS (Data Science)
 
-I build production-style data systems with a focus on clean architecture and real-world performance. Currently working through **#Project50** a 50-day challenge where I ship one production-grade Python system per day.
+I build production-style data systems with a focus on clean architecture and real-world performance. Currently working on a [SunBot](https://sunbotapp.com/) 🌞
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=midit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="155" />
