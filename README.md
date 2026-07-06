@@ -1,4 +1,4 @@
-<a href="https://linktr.ee/delovebit" target="_blank" rel="noopener">
+<a href="https://maksympatrushev.com/" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/9043a314-6679-43d5-bb74-3eee260d707b" width="1440" alt="Banner">
 </a>
 
